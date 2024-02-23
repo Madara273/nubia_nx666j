@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_NX666J.mk
+    $(LOCAL_DIR)/twrp_NX666J.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_NX666J-user \
-    omni_NX666J-userdebug \
-    omni_NX666J-eng
+    twrp_NX666J-user \
+    twrp_NX666J-userdebug \
+    twrp_NX666J-eng
