@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "Madara273",
+    "repository": "nubia_nx666j_sm8350-common",
+    "target_path": "device/nubia/sm8350-common",
+    "branch": "android-12.1"
+  },
+  {
+    "remote": "github",
+    "repository": "Madara273/kernel_nubia_sm8350",
+    "target_path": "kernel/nubia/sm8350",
+    "branch": "android-12.1"
+  }
+]
